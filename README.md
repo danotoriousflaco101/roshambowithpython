@@ -11,8 +11,11 @@
 Hey there! This is a classic command-line Rock, Paper, Scissors game written in Python. It's a super simple project. You'll play against a computer opponent and see who comes out on top!
 This project is a great exercise for practicing some core concepts:
 </br>
+</br>
 Handling User Input: Capturing input from the user directly in the terminal using the input() function.
+</br>
 Randomization: Using Python's built-in random module.
+</br>
 Complex Conditional Logic: Using a series of if/elif/else statements.
 </br>
 </br>
