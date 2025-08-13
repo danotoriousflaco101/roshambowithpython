@@ -52,6 +52,7 @@ Python 3.13.6
 <a href="#"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub"></a> 
 <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python"></a>
 </p>
+</br>
 
 🚀 Getting Started
 --------------------
@@ -89,6 +90,7 @@ python3 game.py
 The script will then prompt you to enter your choice. Type rock, paper, or scissors and hit Enter to see the outcome!
 </br>
 </br>
+
 💡 Possible Improvements
 ------------------------
 </br>
