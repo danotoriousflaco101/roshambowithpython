@@ -55,7 +55,7 @@ Python 3.13.6
 </br>
 To get a copy of this project up and running on your local machine, just follow these simple steps.
 </br>
-
+</br>
 Clone the repo (or just download the game.py file)
 
 <strong>Bash</strong>
@@ -69,20 +69,23 @@ Navigate to the project directory
 
 cd rockpaperscissorphyton
 </br>
+</br>
 
 ▶️ How to Run the Game
 ----------------------
 </br>
 Execute the script from your terminal using Python.
 </br>
-
+</br>
 <strong>Bash</strong>
-
+</br>
+</br>
 python3 game.py
+</br>
 </br>
 The script will then prompt you to enter your choice. Type rock, paper, or scissors and hit Enter to see the outcome!
 </br>
-
+</br>
 💡 Possible Improvements
 ------------------------
 </br>
