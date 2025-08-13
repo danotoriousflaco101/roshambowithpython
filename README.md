@@ -62,7 +62,7 @@ Clone the repo (or just download the game.py file)
 
 git clone https://github.com/your-username/rockpaperscissorphyton.git
 </br>
-
+</br>
 Navigate to the project directory
 
 <strong>Bash</strong>
